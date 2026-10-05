@@ -1,4 +1,4 @@
-# Fundamental Algorithm Types in Programming
+#Algorithm Types in Programming
 
 In computer science and programming, algorithms describe step-by-step logic used to solve problems. Most algorithms are built around three fundamental control structures: **Linear (Sequential)**, **Branching (Conditional)**, and **Circular (Iterative)**.
 
